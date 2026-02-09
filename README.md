@@ -70,16 +70,16 @@ print(f"Features: {X.shape[1]}")
 
 ## Data Quality
 
-✅ Physical consistency verified
-✅ Statistical diversity validated (24/28 features)
-✅ Logical consistency confirmed
-✅ No data leakage
+Physical consistency verified
+Statistical diversity validated (24/28 features)
+Logical consistency confirmed
+No data leakage
 
 ## Citation
 
 ```
 NGS Scheduling Dataset
-Generated for NTU MA6514 Course Project
+for NTU MA6514 Course Project
 February 2026
 ```
 
