@@ -1,5 +1,10 @@
 # NGS Scheduling Dataset
 
+> **This dataset has moved.** It is now maintained inside
+> [reorch-zhice](https://github.com/eulalee001020-star/reorch-zhice/tree/main/datasets/ngs_l2r_training),
+> with a fuller data card and a schema test. This repository is kept for
+> existing links and will not receive updates.
+
 ## Dataset Information
 
 - **Samples**: 554
